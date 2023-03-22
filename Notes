@@ -1,0 +1,13 @@
+<!-- Steps -->
+Reset the default browser styles
+Style the track
+Style the thumb
+Add Javascript
+
+<!-- Colors -->
+Track: #273549
+Thumb: #D5D4D8
+
+<!-- Center thumb formula -->
+(track height in pixels / 2) - (thumb height in pixels /2) and set
+to the margiin top property
