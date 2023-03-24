@@ -62,7 +62,6 @@ h1 {
 
 input[type="range"] {
     -webkit-appearance: none;
-    background: none;
     background: #273549;
     height: 5px;
     border-radius: 50px;
